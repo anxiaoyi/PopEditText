@@ -3,9 +3,9 @@
 
 In a word, this demo is aim to demostrate how to pop or hide keyboard with EditText in a more elegant way.
 
-![Demonstrate](https://github.com/anxiaoyi/PopEditText/PopEditText/popedittext.gif)
+![Demonstrate](https://github.com/anxiaoyi/PopEditText/blob/master/PopEditText/popedittext.gif)
 
-Download Demo: [Download](https://github.com/anxiaoyi/PopEditText/PopEditText/PopEditText.apk)
+Download Demo: [Download](https://github.com/anxiaoyi/PopEditText/blob/master/PopEditText/PopEditText.apk)
 
 ## How to use:
 ```
